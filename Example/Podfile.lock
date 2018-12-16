@@ -1,0 +1,27 @@
+PODS:
+  - JVCAGradientLayerExtensions (0.1.0)
+  - JVContentType (0.1.0)
+  - JVGradientLayer (0.1.0):
+    - JVCAGradientLayerExtensions
+    - JVContentType
+
+DEPENDENCIES:
+  - JVGradientLayer (from `../`)
+
+SPEC REPOS:
+  "https://Jasperav@bitbucket.org/Jasperav/specs.git":
+    - JVCAGradientLayerExtensions
+    - JVContentType
+
+EXTERNAL SOURCES:
+  JVGradientLayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVCAGradientLayerExtensions: fb18d708faf5adef4cb26e9c50f84c536865d18c
+  JVContentType: 5cf5622da8f46a89c10b79f98248a5c89c43b4fc
+  JVGradientLayer: e51ab148bb4100bcde82ad27cae1aeec589ac1c8
+
+PODFILE CHECKSUM: c9c65fbb50daf1845ffc2efc78814e8cf7559f2a
+
+COCOAPODS: 1.6.0.beta.1

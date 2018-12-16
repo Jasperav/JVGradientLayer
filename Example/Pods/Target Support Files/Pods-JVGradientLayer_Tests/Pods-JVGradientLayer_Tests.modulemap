@@ -1,0 +1,6 @@
+framework module Pods_JVGradientLayer_Tests {
+  umbrella header "Pods-JVGradientLayer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "JVGradientLayer",
+  "version": "0.1.0",
+  "summary": "A short description of JVGradientLayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jasperav/JVGradientLayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jasperav": "Jasperav@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jasperav/JVGradientLayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JVGradientLayer/Classes/**/*",
+  "dependencies": {
+    "JVCAGradientLayerExtensions": [
+
+    ],
+    "JVContentType": [
+
+    ]
+  }
+}
