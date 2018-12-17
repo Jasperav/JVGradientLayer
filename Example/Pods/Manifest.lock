@@ -1,6 +1,6 @@
 PODS:
   - JVCAGradientLayerExtensions (0.1.0)
-  - JVContentType (0.1.0)
+  - JVContentType (0.1.5)
   - JVGradientLayer (0.1.0):
     - JVCAGradientLayerExtensions
     - JVContentType
@@ -19,8 +19,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   JVCAGradientLayerExtensions: fb18d708faf5adef4cb26e9c50f84c536865d18c
-  JVContentType: 5cf5622da8f46a89c10b79f98248a5c89c43b4fc
-  JVGradientLayer: e51ab148bb4100bcde82ad27cae1aeec589ac1c8
+  JVContentType: e62e3eca7b5d701f344e9a7116fc1ec3213b9d0c
+  JVGradientLayer: f1987a634c7b274755b8d8294054895675481bd9
 
 PODFILE CHECKSUM: c9c65fbb50daf1845ffc2efc78814e8cf7559f2a
 

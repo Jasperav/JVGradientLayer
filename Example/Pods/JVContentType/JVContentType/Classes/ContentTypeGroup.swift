@@ -1,5 +1,5 @@
 public protocol ContentTypeGroup: ContentType {
-    /// Querying reusable content types which are in the specified groep id
+    /// Gettings reusable content types which are in the specified group id.
     static func getContentTypes(contentTypeGroupId: String) -> [Self]
     var contentTypeGroupId: [String]? { get }
 }

@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07C182533C980483919960F022FBC51C /* JVGradientLayer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF699D1E5F7F7AF88E7EBE832F2367E /* JVGradientLayer-dummy.m */; };
+		1115BFD05AFA760341F179636434EBA8 /* JVContentType-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 37680FD5D91AFBBF7564AB90745DFBB9 /* JVContentType-dummy.m */; };
 		1F117488477F8DFA18F649679674BFA6 /* Pods-JVGradientLayer_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B840FCF15A4ECB440326A92838BCB169 /* Pods-JVGradientLayer_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2CD33BBDD2E15B40946D761472F053AA /* Pods-JVGradientLayer_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 59498D8315D49A3D4D7CF88FF46D41C6 /* Pods-JVGradientLayer_Tests-dummy.m */; };
-		34484BD59C364427B3CBBDF06F4A2984 /* Copyable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39DB429A7538DB23E1BC4974A2D7C3CB /* Copyable.swift */; };
 		3BBE8CDE844D97B1FD23C59F6942D149 /* JVCAGradientLayerExtensions.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1590BFBF378A0862C0A36E5499A9B /* JVCAGradientLayerExtensions.framework */; };
-		47706FC8226DF0EBEF3C82FACD8CB8CE /* ContentTypeJVGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C61898E2D78F81CF12F0D90049BC4F /* ContentTypeJVGradientLayer.swift */; };
-		4DADC3B3B47B84CF6F6C695EEA92F5E4 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38030519F79D778D6395BC5F8B8C83E3 /* StringExtensions.swift */; };
-		5C019F5879D004F1F95C379B3607380B /* ContentTypeStarGradientLayerPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4F46C5B1370CE7F43BCCB389BE1D0D /* ContentTypeStarGradientLayerPoint.swift */; };
+		4AC1C7F9AF93952881CE0DD9337B69AA /* Copyable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA69CD0AFD538A9A8A4CB1F9912F31 /* Copyable.swift */; };
+		51AB2819F9871E7A725C6A55282A9011 /* ContentTypeJVGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517DF66D5FCAC8CD69F9A82B7BEF4F12 /* ContentTypeJVGradientLayer.swift */; };
+		5416B00E9A2B5AFE5081AA2AFB599FE7 /* ContentTypeGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A4306763D814D056EBB3C15351F3EC /* ContentTypeGroup.swift */; };
+		5B3F97E9F4B16910DCA3F0907B4E0AD1 /* ContentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F3CE5648BA367AFD5A2E0809B6B74B /* ContentType.swift */; };
 		62D0C39817ABE14D5946463A178D508E /* JVCAGradientLayerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D4A6968256FE1619BEB1F0FF4652D /* JVCAGradientLayerExtensions.swift */; };
 		6A1D25432F6F08F9FFB5B735E959F394 /* JVContentType.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DDDA5AA2CE3735D2A2E3BBD426979FE /* JVContentType.framework */; };
-		6E43D587EAE54CBE0DA9B37699D531E8 /* ContentTypeGroupInitializable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEB3CCC63747049D14FB875B4DC20CF /* ContentTypeGroupInitializable.swift */; };
-		88FE08C0D6D9069938F3A8B6C5510545 /* ContentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28E5783AC129482EDA1215E41DA04C9 /* ContentType.swift */; };
+		75C3D06951BFF9109208F985FB5E6C47 /* JVGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A32C711620D1F67F7239929A33F6E2F /* JVGradientLayer.swift */; };
+		839A750095626235E17E301181C31F81 /* ContentTypeStarGradientLayerPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C06D0E854BF72F5BEE4EA2604B2B94D /* ContentTypeStarGradientLayerPoint.swift */; };
 		8D4FB88285E1BD38281946380D5CEE17 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FCAD413A839518E3D08899D419B7A28 /* Foundation.framework */; };
 		8D8AF65311DE2B7601DE2336CC979875 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FCAD413A839518E3D08899D419B7A28 /* Foundation.framework */; };
 		8F76554279C201FA0B7C42AEA7920F02 /* JVCAGradientLayerExtensions-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 335968BC30082F10F05D1B2E492AD34F /* JVCAGradientLayerExtensions-dummy.m */; };
-		923DE298CB4CF0B89F2881620C7774E7 /* JVContentType-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 73847E0CD25EB80EF2B46DAB5E85FDB2 /* JVContentType-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9CEEE17DC7760D34D40D5AC17359973E /* JVGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDEB97ACF7C1C7A7BA406B6F18793CBB /* JVGradientLayer.swift */; };
-		B2975606FD9D24E06FBDDA81AFD240D6 /* JVGradientLayer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3886C4D0D0ECC74E511793C0DB28D7E3 /* JVGradientLayer-dummy.m */; };
-		B54681902BAC663D5B52AA6FE454936C /* JVContentType-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E001DC004813EFDCC4BFF10A26AA010A /* JVContentType-dummy.m */; };
-		BDC3D63E8091B23281C6C49C4744B7AA /* ContentTypeGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BF1519530A9D2E20BA94C814F41573 /* ContentTypeGroup.swift */; };
+		90D061B9DB5B697FF49634BA64952FE2 /* ContentTypeGroupInitializable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9032D698F91A473E3DF170833CDFAC6 /* ContentTypeGroupInitializable.swift */; };
+		923DE298CB4CF0B89F2881620C7774E7 /* JVContentType-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 57EE99C2C4B2B40D665221109563FD3C /* JVContentType-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B09C156DC77A8C50671F6E753BFACE6F /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78434B13705D5F54F8D165DA15E20895 /* StringExtensions.swift */; };
+		B75020612D4B82B055E5756C60104E57 /* CollectionExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C449043F52CCD912CD912159696CC0 /* CollectionExtensions.swift */; };
+		C61C0501E3016333F94772AF20D408FC /* ContentTypeInitializable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED2818044FEE4C6F12A7D9482D1AD3 /* ContentTypeInitializable.swift */; };
 		E04AD7D0C407709A3C46138D12BCEF1A /* JVCAGradientLayerExtensions-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0167573951880A983E6AED50AC4B7BA0 /* JVCAGradientLayerExtensions-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EE166F9317DFD8D9E7CA8835DA3377DE /* ArrayExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93544EB1B377E04C6DE622FD7E36F80D /* ArrayExtensions.swift */; };
-		F35DF82C7C9FA630190E6E2BE1632871 /* JVGradientLayer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B48AB0FACA7F44F8A4A5350E97FB37BE /* JVGradientLayer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F47E59739173FF40C36116885F727119 /* ContentTypeInitializable.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE68742686970C7EB8C94D1431F16CF8 /* ContentTypeInitializable.swift */; };
+		F35DF82C7C9FA630190E6E2BE1632871 /* JVGradientLayer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DC5AB67C613ADDACC341CE0D593B51BE /* JVGradientLayer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F5D7A1A5ACDA35F9A5F7570D5238ABDE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FCAD413A839518E3D08899D419B7A28 /* Foundation.framework */; };
 		FD5618C1A5DDDB0B8A3F15C49D3CDA85 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FCAD413A839518E3D08899D419B7A28 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -76,52 +76,52 @@
 		01207846E6AECAE621D2D3FA8E06E786 /* Pods-JVGradientLayer_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JVGradientLayer_Tests-Info.plist"; sourceTree = "<group>"; };
 		0167573951880A983E6AED50AC4B7BA0 /* JVCAGradientLayerExtensions-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVCAGradientLayerExtensions-umbrella.h"; sourceTree = "<group>"; };
 		03E863CBFF2EB31E7F93FA587444DBB6 /* JVCAGradientLayerExtensions.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVCAGradientLayerExtensions.modulemap; sourceTree = "<group>"; };
-		1DCE49661D16CD81E4E175EFCEA41C54 /* JVGradientLayer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVGradientLayer.xcconfig; sourceTree = "<group>"; };
+		06F3CE5648BA367AFD5A2E0809B6B74B /* ContentType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentType.swift; path = JVContentType/Classes/ContentType.swift; sourceTree = "<group>"; };
+		10FD7C06FFF27B5F24F7B41196F613D6 /* JVGradientLayer.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = JVGradientLayer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		162131725F09CABB6BA9F110C11F70C1 /* JVGradientLayer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVGradientLayer.xcconfig; sourceTree = "<group>"; };
 		24B2F5BD65F697915B5CA030C7607A2E /* JVCAGradientLayerExtensions-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVCAGradientLayerExtensions-Info.plist"; sourceTree = "<group>"; };
 		283C699C6CB4E8E7749F85B386BC45E3 /* JVCAGradientLayerExtensions.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVCAGradientLayerExtensions.xcconfig; sourceTree = "<group>"; };
 		335968BC30082F10F05D1B2E492AD34F /* JVCAGradientLayerExtensions-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVCAGradientLayerExtensions-dummy.m"; sourceTree = "<group>"; };
-		36174E6FD650C8EF55CBB11A5EB3CFE2 /* JVContentType.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVContentType.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		38030519F79D778D6395BC5F8B8C83E3 /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = JVGradientLayer/Classes/StringExtensions.swift; sourceTree = "<group>"; };
-		3886C4D0D0ECC74E511793C0DB28D7E3 /* JVGradientLayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVGradientLayer-dummy.m"; sourceTree = "<group>"; };
-		39DB429A7538DB23E1BC4974A2D7C3CB /* Copyable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Copyable.swift; path = JVContentType/Classes/Copyable.swift; sourceTree = "<group>"; };
+		36174E6FD650C8EF55CBB11A5EB3CFE2 /* JVContentType.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVContentType.framework; path = JVContentType.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		37680FD5D91AFBBF7564AB90745DFBB9 /* JVContentType-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVContentType-dummy.m"; sourceTree = "<group>"; };
 		39F3A94ABDFE76B36CE356EF8BBC10DB /* Pods-JVGradientLayer_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JVGradientLayer_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		3D41FFF08497CFBB3DBA0EE4C0AC5557 /* JVGradientLayer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGradientLayer-prefix.pch"; sourceTree = "<group>"; };
+		476C395F1A5BD4C404F1F2AC49C8E44F /* JVContentType-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVContentType-Info.plist"; sourceTree = "<group>"; };
+		4A32C711620D1F67F7239929A33F6E2F /* JVGradientLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JVGradientLayer.swift; path = JVGradientLayer/Classes/JVGradientLayer.swift; sourceTree = "<group>"; };
+		4B7895482EE5E209FB4FFDFB341FB024 /* JVGradientLayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVGradientLayer.modulemap; sourceTree = "<group>"; };
 		5037DF0A452D3C841EF428961E92A167 /* Pods-JVGradientLayer_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JVGradientLayer_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		52BF1519530A9D2E20BA94C814F41573 /* ContentTypeGroup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeGroup.swift; path = JVContentType/Classes/ContentTypeGroup.swift; sourceTree = "<group>"; };
+		517DF66D5FCAC8CD69F9A82B7BEF4F12 /* ContentTypeJVGradientLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeJVGradientLayer.swift; path = JVGradientLayer/Classes/ContentTypeJVGradientLayer.swift; sourceTree = "<group>"; };
+		57EE99C2C4B2B40D665221109563FD3C /* JVContentType-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVContentType-umbrella.h"; sourceTree = "<group>"; };
 		59498D8315D49A3D4D7CF88FF46D41C6 /* Pods-JVGradientLayer_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JVGradientLayer_Tests-dummy.m"; sourceTree = "<group>"; };
-		615A4A36478B2D8993548933650FF1C6 /* JVGradientLayer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVGradientLayer-Info.plist"; sourceTree = "<group>"; };
-		650DE6F3D4A616A3B4AEACE2006B8044 /* JVContentType-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVContentType-Info.plist"; sourceTree = "<group>"; };
 		6DDDA5AA2CE3735D2A2E3BBD426979FE /* JVContentType.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVContentType.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FCAD413A839518E3D08899D419B7A28 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		72B5A908858B58F9D7895B29B59CD892 /* JVGradientLayer.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = JVGradientLayer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		73847E0CD25EB80EF2B46DAB5E85FDB2 /* JVContentType-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVContentType-umbrella.h"; sourceTree = "<group>"; };
-		93544EB1B377E04C6DE622FD7E36F80D /* ArrayExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrayExtensions.swift; path = JVContentType/Classes/ArrayExtensions.swift; sourceTree = "<group>"; };
+		78434B13705D5F54F8D165DA15E20895 /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = JVGradientLayer/Classes/StringExtensions.swift; sourceTree = "<group>"; };
+		7C06D0E854BF72F5BEE4EA2604B2B94D /* ContentTypeStarGradientLayerPoint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeStarGradientLayerPoint.swift; path = JVGradientLayer/Classes/ContentTypeStarGradientLayerPoint.swift; sourceTree = "<group>"; };
+		86C449043F52CCD912CD912159696CC0 /* CollectionExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CollectionExtensions.swift; path = JVContentType/Classes/CollectionExtensions.swift; sourceTree = "<group>"; };
+		8A0429CDFE3791C734C705D427479492 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		8BA950AAFFB7F5F8F4720FD397165CEF /* JVContentType.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVContentType.modulemap; sourceTree = "<group>"; };
 		936CF973D5DD85B12341552560260BED /* JVCAGradientLayerExtensions-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVCAGradientLayerExtensions-prefix.pch"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9AA979271B8767857358E1F621ED7703 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F58CDAD6EB9F612C16EB921182E4C59 /* Pods-JVGradientLayer_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-JVGradientLayer_Tests.modulemap"; sourceTree = "<group>"; };
+		A3A4306763D814D056EBB3C15351F3EC /* ContentTypeGroup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeGroup.swift; path = JVContentType/Classes/ContentTypeGroup.swift; sourceTree = "<group>"; };
 		A4A9EDB456131C9909F545BD310EBE79 /* Pods-JVGradientLayer_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JVGradientLayer_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A55D4A6968256FE1619BEB1F0FF4652D /* JVCAGradientLayerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JVCAGradientLayerExtensions.swift; path = JVCAGradientLayerExtensions/Classes/JVCAGradientLayerExtensions.swift; sourceTree = "<group>"; };
+		A885CA4BCF9AB8954D6E9C4214CB6964 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		A9476D6C5E998A2930D7F37A6A650F1C /* Pods-JVGradientLayer_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JVGradientLayer_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A9AAFA4C80568A911270F9CAA9031C05 /* Pods-JVGradientLayer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JVGradientLayer_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		AAEB3CCC63747049D14FB875B4DC20CF /* ContentTypeGroupInitializable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeGroupInitializable.swift; path = JVContentType/Classes/ContentTypeGroupInitializable.swift; sourceTree = "<group>"; };
-		B0FCC482568C62D160BFC9B3E2BB8902 /* JVContentType.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVContentType.modulemap; sourceTree = "<group>"; };
-		B48AB0FACA7F44F8A4A5350E97FB37BE /* JVGradientLayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGradientLayer-umbrella.h"; sourceTree = "<group>"; };
+		AA0F3A6A66A7AC84649C305FF175FEF9 /* JVContentType.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVContentType.xcconfig; sourceTree = "<group>"; };
+		ACED2818044FEE4C6F12A7D9482D1AD3 /* ContentTypeInitializable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeInitializable.swift; path = JVContentType/Classes/ContentTypeInitializable.swift; sourceTree = "<group>"; };
 		B840FCF15A4ECB440326A92838BCB169 /* Pods-JVGradientLayer_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JVGradientLayer_Tests-umbrella.h"; sourceTree = "<group>"; };
-		B86E85AA03830FC417938F72F3435220 /* JVGradientLayer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGradientLayer-prefix.pch"; sourceTree = "<group>"; };
+		B9032D698F91A473E3DF170833CDFAC6 /* ContentTypeGroupInitializable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeGroupInitializable.swift; path = JVContentType/Classes/ContentTypeGroupInitializable.swift; sourceTree = "<group>"; };
 		B9F1590BFBF378A0862C0A36E5499A9B /* JVCAGradientLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVCAGradientLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BCE9047E73425313CF31404FA409D8CE /* JVGradientLayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVGradientLayer.modulemap; sourceTree = "<group>"; };
-		C12C54D1A3D90F952BF65020BCF2BF64 /* JVContentType.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVContentType.xcconfig; sourceTree = "<group>"; };
-		C28E5783AC129482EDA1215E41DA04C9 /* ContentType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentType.swift; path = JVContentType/Classes/ContentType.swift; sourceTree = "<group>"; };
-		D0748698A10F2DCD99E6EA111AB98219 /* Pods_JVGradientLayer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JVGradientLayer_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D87450E9228515C1154EE27AA7048B92 /* JVCAGradientLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVCAGradientLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D99539821D9AF030EBF7F5DF083D816F /* JVContentType-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVContentType-prefix.pch"; sourceTree = "<group>"; };
-		DE68742686970C7EB8C94D1431F16CF8 /* ContentTypeInitializable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeInitializable.swift; path = JVContentType/Classes/ContentTypeInitializable.swift; sourceTree = "<group>"; };
-		E001DC004813EFDCC4BFF10A26AA010A /* JVContentType-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVContentType-dummy.m"; sourceTree = "<group>"; };
-		ED3E898D2AF5EB07AAB5A79B35F690E5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		EDEB97ACF7C1C7A7BA406B6F18793CBB /* JVGradientLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JVGradientLayer.swift; path = JVGradientLayer/Classes/JVGradientLayer.swift; sourceTree = "<group>"; };
-		EFC233ADDB1C804F7514224815550235 /* JVGradientLayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVGradientLayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F2C61898E2D78F81CF12F0D90049BC4F /* ContentTypeJVGradientLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeJVGradientLayer.swift; path = JVGradientLayer/Classes/ContentTypeJVGradientLayer.swift; sourceTree = "<group>"; };
-		FB4F46C5B1370CE7F43BCCB389BE1D0D /* ContentTypeStarGradientLayerPoint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeStarGradientLayerPoint.swift; path = JVGradientLayer/Classes/ContentTypeStarGradientLayerPoint.swift; sourceTree = "<group>"; };
+		CFF699D1E5F7F7AF88E7EBE832F2367E /* JVGradientLayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVGradientLayer-dummy.m"; sourceTree = "<group>"; };
+		D0748698A10F2DCD99E6EA111AB98219 /* Pods_JVGradientLayer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_JVGradientLayer_Tests.framework; path = "Pods-JVGradientLayer_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D87450E9228515C1154EE27AA7048B92 /* JVCAGradientLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVCAGradientLayerExtensions.framework; path = JVCAGradientLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8AA69CD0AFD538A9A8A4CB1F9912F31 /* Copyable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Copyable.swift; path = JVContentType/Classes/Copyable.swift; sourceTree = "<group>"; };
+		DC5AB67C613ADDACC341CE0D593B51BE /* JVGradientLayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGradientLayer-umbrella.h"; sourceTree = "<group>"; };
+		EA375D328304041299615C18FBECE0B5 /* JVGradientLayer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVGradientLayer-Info.plist"; sourceTree = "<group>"; };
+		EC5854C63D517C6C847FD9AF18424AE9 /* JVContentType-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVContentType-prefix.pch"; sourceTree = "<group>"; };
+		EFC233ADDB1C804F7514224815550235 /* JVGradientLayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVGradientLayer.framework; path = JVGradientLayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,24 +162,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2BC02E6168B5B279477D5B993576900B /* JVContentType */ = {
+		18221CF1030A940663E171C6CA2860D2 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				93544EB1B377E04C6DE622FD7E36F80D /* ArrayExtensions.swift */,
-				C28E5783AC129482EDA1215E41DA04C9 /* ContentType.swift */,
-				52BF1519530A9D2E20BA94C814F41573 /* ContentTypeGroup.swift */,
-				AAEB3CCC63747049D14FB875B4DC20CF /* ContentTypeGroupInitializable.swift */,
-				DE68742686970C7EB8C94D1431F16CF8 /* ContentTypeInitializable.swift */,
-				39DB429A7538DB23E1BC4974A2D7C3CB /* Copyable.swift */,
-				EFEC7A0BEE8D9A4A2D775CC79225F2BA /* Support Files */,
+				10FD7C06FFF27B5F24F7B41196F613D6 /* JVGradientLayer.podspec */,
+				A885CA4BCF9AB8954D6E9C4214CB6964 /* LICENSE */,
+				8A0429CDFE3791C734C705D427479492 /* README.md */,
 			);
-			path = JVContentType;
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		19D5C40F1B9416919EF6EE3FFB3D3127 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				4B7895482EE5E209FB4FFDFB341FB024 /* JVGradientLayer.modulemap */,
+				162131725F09CABB6BA9F110C11F70C1 /* JVGradientLayer.xcconfig */,
+				CFF699D1E5F7F7AF88E7EBE832F2367E /* JVGradientLayer-dummy.m */,
+				EA375D328304041299615C18FBECE0B5 /* JVGradientLayer-Info.plist */,
+				3D41FFF08497CFBB3DBA0EE4C0AC5557 /* JVGradientLayer-prefix.pch */,
+				DC5AB67C613ADDACC341CE0D593B51BE /* JVGradientLayer-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/JVGradientLayer";
 			sourceTree = "<group>";
 		};
 		47DAA97BDCE8D3B745845EE7A5B38406 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				72718AB2C6EF5A864C6D67C2AA14CB5B /* JVGradientLayer */,
+				99817B52CE8505D4E5A228E2BD4E4636 /* JVGradientLayer */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -194,28 +204,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		69131E7E6A6C4C96F77B092BCBD405A8 /* Pod */ = {
+		6C7448504153092405A4C2A4071A3723 /* JVContentType */ = {
 			isa = PBXGroup;
 			children = (
-				72B5A908858B58F9D7895B29B59CD892 /* JVGradientLayer.podspec */,
-				ED3E898D2AF5EB07AAB5A79B35F690E5 /* LICENSE */,
-				9AA979271B8767857358E1F621ED7703 /* README.md */,
+				86C449043F52CCD912CD912159696CC0 /* CollectionExtensions.swift */,
+				06F3CE5648BA367AFD5A2E0809B6B74B /* ContentType.swift */,
+				A3A4306763D814D056EBB3C15351F3EC /* ContentTypeGroup.swift */,
+				B9032D698F91A473E3DF170833CDFAC6 /* ContentTypeGroupInitializable.swift */,
+				ACED2818044FEE4C6F12A7D9482D1AD3 /* ContentTypeInitializable.swift */,
+				D8AA69CD0AFD538A9A8A4CB1F9912F31 /* Copyable.swift */,
+				C7660A38B6524D57C0318AD1FA0BF9FD /* Support Files */,
 			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		72718AB2C6EF5A864C6D67C2AA14CB5B /* JVGradientLayer */ = {
-			isa = PBXGroup;
-			children = (
-				F2C61898E2D78F81CF12F0D90049BC4F /* ContentTypeJVGradientLayer.swift */,
-				FB4F46C5B1370CE7F43BCCB389BE1D0D /* ContentTypeStarGradientLayerPoint.swift */,
-				EDEB97ACF7C1C7A7BA406B6F18793CBB /* JVGradientLayer.swift */,
-				38030519F79D778D6395BC5F8B8C83E3 /* StringExtensions.swift */,
-				69131E7E6A6C4C96F77B092BCBD405A8 /* Pod */,
-				861F430AE19B62011723044FCE4CC813 /* Support Files */,
-			);
-			name = JVGradientLayer;
-			path = ../..;
+			name = JVContentType;
+			path = JVContentType;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -236,6 +237,7 @@
 				A55D4A6968256FE1619BEB1F0FF4652D /* JVCAGradientLayerExtensions.swift */,
 				A530D808089DD324E62ED7CD1735ED28 /* Support Files */,
 			);
+			name = JVCAGradientLayerExtensions;
 			path = JVCAGradientLayerExtensions;
 			sourceTree = "<group>";
 		};
@@ -250,18 +252,18 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		861F430AE19B62011723044FCE4CC813 /* Support Files */ = {
+		99817B52CE8505D4E5A228E2BD4E4636 /* JVGradientLayer */ = {
 			isa = PBXGroup;
 			children = (
-				BCE9047E73425313CF31404FA409D8CE /* JVGradientLayer.modulemap */,
-				1DCE49661D16CD81E4E175EFCEA41C54 /* JVGradientLayer.xcconfig */,
-				3886C4D0D0ECC74E511793C0DB28D7E3 /* JVGradientLayer-dummy.m */,
-				615A4A36478B2D8993548933650FF1C6 /* JVGradientLayer-Info.plist */,
-				B86E85AA03830FC417938F72F3435220 /* JVGradientLayer-prefix.pch */,
-				B48AB0FACA7F44F8A4A5350E97FB37BE /* JVGradientLayer-umbrella.h */,
+				517DF66D5FCAC8CD69F9A82B7BEF4F12 /* ContentTypeJVGradientLayer.swift */,
+				7C06D0E854BF72F5BEE4EA2604B2B94D /* ContentTypeStarGradientLayerPoint.swift */,
+				4A32C711620D1F67F7239929A33F6E2F /* JVGradientLayer.swift */,
+				78434B13705D5F54F8D165DA15E20895 /* StringExtensions.swift */,
+				18221CF1030A940663E171C6CA2860D2 /* Pod */,
+				19D5C40F1B9416919EF6EE3FFB3D3127 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/JVGradientLayer";
+			name = JVGradientLayer;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		9BC759F13B276B881B12D659AD82BBB1 /* Targets Support Files */ = {
@@ -303,6 +305,20 @@
 			path = "Target Support Files/Pods-JVGradientLayer_Tests";
 			sourceTree = "<group>";
 		};
+		C7660A38B6524D57C0318AD1FA0BF9FD /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8BA950AAFFB7F5F8F4720FD397165CEF /* JVContentType.modulemap */,
+				AA0F3A6A66A7AC84649C305FF175FEF9 /* JVContentType.xcconfig */,
+				37680FD5D91AFBBF7564AB90745DFBB9 /* JVContentType-dummy.m */,
+				476C395F1A5BD4C404F1F2AC49C8E44F /* JVContentType-Info.plist */,
+				EC5854C63D517C6C847FD9AF18424AE9 /* JVContentType-prefix.pch */,
+				57EE99C2C4B2B40D665221109563FD3C /* JVContentType-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/JVContentType";
+			sourceTree = "<group>";
+		};
 		DD399B9E5E1C70F7430926A1DA8E5789 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -315,23 +331,9 @@
 			isa = PBXGroup;
 			children = (
 				7E2239590AE0B6707ADB8817EB20D199 /* JVCAGradientLayerExtensions */,
-				2BC02E6168B5B279477D5B993576900B /* JVContentType */,
+				6C7448504153092405A4C2A4071A3723 /* JVContentType */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		EFEC7A0BEE8D9A4A2D775CC79225F2BA /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				B0FCC482568C62D160BFC9B3E2BB8902 /* JVContentType.modulemap */,
-				C12C54D1A3D90F952BF65020BCF2BF64 /* JVContentType.xcconfig */,
-				E001DC004813EFDCC4BFF10A26AA010A /* JVContentType-dummy.m */,
-				650DE6F3D4A616A3B4AEACE2006B8044 /* JVContentType-Info.plist */,
-				D99539821D9AF030EBF7F5DF083D816F /* JVContentType-prefix.pch */,
-				73847E0CD25EB80EF2B46DAB5E85FDB2 /* JVContentType-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/JVContentType";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -398,7 +400,7 @@
 			buildConfigurationList = 6A676011F824AFF6CC84AA2F906006D8 /* Build configuration list for PBXNativeTarget "JVContentType" */;
 			buildPhases = (
 				28E4AFBC05A5295198F960CB27AABD84 /* Headers */,
-				295EB87B63C64EF90CE8C8589441D6D2 /* Sources */,
+				60F54B9C0E53EAEE3CBE1168198B1B96 /* Sources */,
 				760F94E263972F1D94D3B1171806FEAB /* Frameworks */,
 				969A1576D6F61EE212272B4F5ADA4EF0 /* Resources */,
 			);
@@ -434,7 +436,7 @@
 			buildConfigurationList = 3C05AFA16378789534C7951E157A0FD0 /* Build configuration list for PBXNativeTarget "JVGradientLayer" */;
 			buildPhases = (
 				C86807A653454C1612F8BCF487AEFAC7 /* Headers */,
-				5029640CACB725F661833202D544E6E2 /* Sources */,
+				8B51341C5FEA0F7979EF0F72DFFB6B39 /* Sources */,
 				619518929EAEFDCA4906F6294F069C67 /* Frameworks */,
 				4049C70A10708FBE420BA09C8FC666F5 /* Resources */,
 			);
@@ -510,38 +512,38 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		295EB87B63C64EF90CE8C8589441D6D2 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EE166F9317DFD8D9E7CA8835DA3377DE /* ArrayExtensions.swift in Sources */,
-				88FE08C0D6D9069938F3A8B6C5510545 /* ContentType.swift in Sources */,
-				BDC3D63E8091B23281C6C49C4744B7AA /* ContentTypeGroup.swift in Sources */,
-				6E43D587EAE54CBE0DA9B37699D531E8 /* ContentTypeGroupInitializable.swift in Sources */,
-				F47E59739173FF40C36116885F727119 /* ContentTypeInitializable.swift in Sources */,
-				34484BD59C364427B3CBBDF06F4A2984 /* Copyable.swift in Sources */,
-				B54681902BAC663D5B52AA6FE454936C /* JVContentType-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5029640CACB725F661833202D544E6E2 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				47706FC8226DF0EBEF3C82FACD8CB8CE /* ContentTypeJVGradientLayer.swift in Sources */,
-				5C019F5879D004F1F95C379B3607380B /* ContentTypeStarGradientLayerPoint.swift in Sources */,
-				B2975606FD9D24E06FBDDA81AFD240D6 /* JVGradientLayer-dummy.m in Sources */,
-				9CEEE17DC7760D34D40D5AC17359973E /* JVGradientLayer.swift in Sources */,
-				4DADC3B3B47B84CF6F6C695EEA92F5E4 /* StringExtensions.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5F4D91B2DA4CC7133502D7C2D507902D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				8F76554279C201FA0B7C42AEA7920F02 /* JVCAGradientLayerExtensions-dummy.m in Sources */,
 				62D0C39817ABE14D5946463A178D508E /* JVCAGradientLayerExtensions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		60F54B9C0E53EAEE3CBE1168198B1B96 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B75020612D4B82B055E5756C60104E57 /* CollectionExtensions.swift in Sources */,
+				5B3F97E9F4B16910DCA3F0907B4E0AD1 /* ContentType.swift in Sources */,
+				5416B00E9A2B5AFE5081AA2AFB599FE7 /* ContentTypeGroup.swift in Sources */,
+				90D061B9DB5B697FF49634BA64952FE2 /* ContentTypeGroupInitializable.swift in Sources */,
+				C61C0501E3016333F94772AF20D408FC /* ContentTypeInitializable.swift in Sources */,
+				4AC1C7F9AF93952881CE0DD9337B69AA /* Copyable.swift in Sources */,
+				1115BFD05AFA760341F179636434EBA8 /* JVContentType-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B51341C5FEA0F7979EF0F72DFFB6B39 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51AB2819F9871E7A725C6A55282A9011 /* ContentTypeJVGradientLayer.swift in Sources */,
+				839A750095626235E17E301181C31F81 /* ContentTypeStarGradientLayerPoint.swift in Sources */,
+				07C182533C980483919960F022FBC51C /* JVGradientLayer-dummy.m in Sources */,
+				75C3D06951BFF9109208F985FB5E6C47 /* JVGradientLayer.swift in Sources */,
+				B09C156DC77A8C50671F6E753BFACE6F /* StringExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -615,7 +617,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -624,9 +627,43 @@
 			};
 			name = Release;
 		};
+		2EB749F1ED260A264B546561A9BA48AD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 162131725F09CABB6BA9F110C11F70C1 /* JVGradientLayer.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JVGradientLayer/JVGradientLayer-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer.modulemap";
+				PRODUCT_MODULE_NAME = JVGradientLayer;
+				PRODUCT_NAME = JVGradientLayer;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		36349E4583C8D6E6E25DA7FFF7BC332F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C12C54D1A3D90F952BF65020BCF2BF64 /* JVContentType.xcconfig */;
+			baseConfigurationReference = AA0F3A6A66A7AC84649C305FF175FEF9 /* JVContentType.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -650,7 +687,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -695,7 +733,7 @@
 		};
 		58E19EE7B8294D691B820C03FFF203D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C12C54D1A3D90F952BF65020BCF2BF64 /* JVContentType.xcconfig */;
+			baseConfigurationReference = AA0F3A6A66A7AC84649C305FF175FEF9 /* JVContentType.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -716,39 +754,6 @@
 				MODULEMAP_FILE = "Target Support Files/JVContentType/JVContentType.modulemap";
 				PRODUCT_MODULE_NAME = JVContentType;
 				PRODUCT_NAME = JVContentType;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		5BF67299168B6C47AB70226A0A01504D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1DCE49661D16CD81E4E175EFCEA41C54 /* JVGradientLayer.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JVGradientLayer/JVGradientLayer-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer.modulemap";
-				PRODUCT_MODULE_NAME = JVGradientLayer;
-				PRODUCT_NAME = JVGradientLayer;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -796,40 +801,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		73219050CE41CCD54D1F6238BAA02A6C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1DCE49661D16CD81E4E175EFCEA41C54 /* JVGradientLayer.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JVGradientLayer/JVGradientLayer-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer.modulemap";
-				PRODUCT_MODULE_NAME = JVGradientLayer;
-				PRODUCT_NAME = JVGradientLayer;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		8C3D32AC054F4DBEE82EB2FD6A303D73 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -983,7 +954,44 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E8A1D1953DAA77B2A11A4B1206B13EA3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 162131725F09CABB6BA9F110C11F70C1 /* JVGradientLayer.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JVGradientLayer/JVGradientLayer-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer.modulemap";
+				PRODUCT_MODULE_NAME = JVGradientLayer;
+				PRODUCT_NAME = JVGradientLayer;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1015,8 +1023,8 @@
 		3C05AFA16378789534C7951E157A0FD0 /* Build configuration list for PBXNativeTarget "JVGradientLayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5BF67299168B6C47AB70226A0A01504D /* Debug */,
-				73219050CE41CCD54D1F6238BAA02A6C /* Release */,
+				2EB749F1ED260A264B546561A9BA48AD /* Debug */,
+				E8A1D1953DAA77B2A11A4B1206B13EA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

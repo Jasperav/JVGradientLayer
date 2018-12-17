@@ -1,6 +1,6 @@
 import JVContentType
 
-public final class ContentTypeJVGradientLayer: ContentTypeGroup, Copyable {
+public struct ContentTypeJVGradientLayer: ContentTypeGroup {
     
     public static var allTypes = Set<ContentTypeJVGradientLayer>()
     
@@ -11,7 +11,7 @@ public final class ContentTypeJVGradientLayer: ContentTypeGroup, Copyable {
     public var startPoint: CGPoint?
     public var endPoint: CGPoint?
     
-    public convenience init(color: CGColor, location: NSNumber) {
+    public init(color: CGColor, location: NSNumber) {
         self.init(contentTypeId: nil, contentTypeGroupId: nil, color: color, gradientLocation: location, startPoint: nil, endPoint: nil)
     }
     
@@ -22,15 +22,6 @@ public final class ContentTypeJVGradientLayer: ContentTypeGroup, Copyable {
         self.gradientLocation = gradientLocation
         self.startPoint = startPoint
         self.endPoint = endPoint
-    }
-    
-    public required init(old: ContentTypeJVGradientLayer, newContentTypeId: String?) {
-        contentTypeId = newContentTypeId
-        contentTypeGroupId = old.contentTypeGroupId
-        color = old.color
-        gradientLocation = old.gradientLocation
-        startPoint = old.startPoint
-        endPoint = old.endPoint
     }
     
 }
