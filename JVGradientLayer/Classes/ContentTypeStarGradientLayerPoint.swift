@@ -1,6 +1,6 @@
 import JVContentType
 
-public final class ContentTypeJVGradientLayerPoint: ContentType {
+public struct ContentTypeJVGradientLayerPoint: ContentType {
     
     public static var allTypes = Set<ContentTypeJVGradientLayerPoint>()
     
